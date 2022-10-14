@@ -1,0 +1,15 @@
+
+
+  table, th , td  {
+    border: 6px solid rgb(10, 10, 10);
+    border-collapse: collapse;
+    padding: 5px;
+    table-layout:fixed;
+    width: 50%;
+  }
+
+  
+  
+  h1{
+    text-align :center;
+  }
